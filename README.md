@@ -7,3 +7,6 @@
 [Seminar 2 Python Notebook](https://github.com/chapmanlab/ML/raw/gh-pages/ML_seminar_2_gp.ipynb)
 
 [Seminar 2 Lecture](https://github.com/chapmanlab/ML/raw/gh-pages/ML_seminar_2.pdf)
+
+## Lecture 3 2/19/20 given by Dr. Matthew Argall
+[Seminar 3 Lecture]
